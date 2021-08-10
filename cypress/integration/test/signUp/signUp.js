@@ -41,6 +41,8 @@ And('click on the signup button', function () {
 
 })
 Then('Validate the sign up page', function () {
+    
+// //since we are not able to sign up just validating on the error message
 Elements.getErrorText().should('have.text','Some error occured, Please check your network settings and try again.')
 
 })
