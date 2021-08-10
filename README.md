@@ -28,7 +28,7 @@ Visit this link to download visual stuido code https://code.visualstudio.com/dow
 ## Clone git repo in VS code
 
 ```shell
-https://github.com/Monika281992/tivix
+https://github.com/Monika281992/Azent-Overseas
 ```
 
 ## Installing Cypress
@@ -77,7 +77,7 @@ Add support for feature files to your Cypress configuration
 ```
 ## Configuration
 
-Please make use of [cosmiconfig](https://github.com/davidtheclark/cosmiconfig) to create a configuration for the plugin, for example, by adding this section to your package.json:
+Add this section to your package.json:
 
 ```json
 "cypress-cucumber-preprocessor": {
